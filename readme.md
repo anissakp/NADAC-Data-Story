@@ -23,6 +23,6 @@ npm run dev
 ```
 
 ## Teammates
-- Anissa Patel: Technical 
-- Alex Naglich: Technical 
-- Kim Credit: Design 
+- Anissa Patel 
+- Alex Naglich 
+- Kim Credit 
